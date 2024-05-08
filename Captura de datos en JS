@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+     let nombre, edad, telefono, email;
+     nombre = prompt ('ingrese su nombre...');
+     edad = prompt ('ingrese su edad...');
+     telefono = prompt ('ingrese su telefono...');
+     email = prompt ('ingrese su email...');
+
+     document.write('nombre: '+nombre);
+     document.write('<br>');
+     document.write('edad: '+edad);
+     document.write('<br>');
+     document.write('telefono: '+telefono);
+     document.write('<br>');
+     document.write('email: '+email);
+
+     
+
+
+
+
+    </script>
+
+</body>
+</html>
